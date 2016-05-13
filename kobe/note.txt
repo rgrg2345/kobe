@@ -1,0 +1,20 @@
+抓圖片利用
+shutil
+
+先開檔案
+f=open(filename,’wb’)寫入binary 資料
+
+shutil.copyfileobj(src,f)
+
+f.close(
+
+
+
+
+OAuth 2.0 has four steps: 
+1. registration,
+2. authorization,
+3. request 
+4. getting new access_tokens after the initial one expired.
+
+https://api.imgur.com/oauth2/authorize?client_id=1bb9dac85d01986&response_type=pin
